@@ -1,0 +1,11 @@
+baseURL = "https://saga.udalf.world/"
+languageCode = "en-us"
+title = "Udalf Saga"
+copyright = "Copyright © 2018"
+theme = "indigo"
+
+[params]
+  Author = "Udalf"
+  Description = "Udalf Saga"
+  ShowBio = false
+  PermalinkText = "🐿"
