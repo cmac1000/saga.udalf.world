@@ -1,8 +1,8 @@
----
-title: "New Friends"
-date: 2019-01-06T21:41:27-05:00
-draft: false
----
+{
+    "chapter": 2,
+    "date": "2019-01-06T21:41:27-05:00",
+    "title": "New Friends"
+}
 
 The mysterious blad-clad figures riding into town introduce themselves to our protagonists as "The Seven Snakes". Their leader, Xolkin Alessandar, greets Colin warmly and expresses a keen interest in the number and location of any remaining town guards. He offers a shiny gemstone in exchange for the successful removal of the guards, and is uninterested in the party's suggestion that he might be happier elsewhere.
 
@@ -10,9 +10,9 @@ Colin confers with Torem Breck in the keep, who is unwilling to abandon his post
 
 The party sends several raven messages from the keep:
 
-1) To Waterdeep to ask again for assistance
-2) To Colin's superiors in the temple, letting them know that Colin might be promising temple services to "snake people"
-3) something else...
+1. To Waterdeep to ask again for assistance
+2. To Colin's superiors in the temple, letting them know that Colin might be promising temple services to "snake people"
+3. To Gum-Gum, to apprise him of recent events
 
 As morning dawns, however, our heroes hear bellows of pain and anger from the northern treeline, as burly figures charge toward the town's palisade. The guards identify these as orcs, and the party waits to see what might happen. After an unsuccessful attempt to climb the northern palisade, the orcs circle around the town, probing for entry points, as Colin booms forth giantish admonishments.
 

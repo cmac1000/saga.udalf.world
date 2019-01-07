@@ -1,8 +1,8 @@
----
-title: "The Nandar Job"
-date: 2018-12-26T19:49:18-05:00
-draft: false
----
+{
+    "chapter": 1,
+    "date": "2018-12-26T19:49:18-05:00",
+    "title": "The Nandar Job"
+}
 
 Taz, Gilbert and Colin journey forth from the city of Waterdeep to the isolated village of Nightstone, on a mission from the temple of Eldath.
 

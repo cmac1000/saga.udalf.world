@@ -1,0 +1,16 @@
+<!-- Include the head/header -->
+{{ partial "header.html" . }}
+
+<!-- Content goes here -->
+<div id="content">
+<h1>Recent Chapters</h1>
+{{ range $index, $page := (.Paginate (where (where .Data.Pages "Type" "chapters") ".Params.hidden" "!=" "true" )).Pages }}
+{{ if ne $index 0 }}
+{{ end }}
+{{ .Render "li" }}
+{{ end }}
+{{ partial "pagination.html" .Paginator }}
+</div>
+
+<!-- Include the site info and footer -->
+{{ partial "footer.html" . }}

@@ -1,7 +1,9 @@
 baseURL = "https://saga.udalf.world/"
 languageCode = "en-us"
 title = "Udalf Saga"
-copyright = "Copyright © 2018"
+copyright = "Copyright © 2019"
+summaryLength = 10
+
 theme = "indigo"
 
 [params]
