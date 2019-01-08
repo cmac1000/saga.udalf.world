@@ -3,8 +3,8 @@
       {{ if or (.Prev) (.Next) }}
       <nav id="article-skip">
         <div class="prev">
-          {{ if and (.Prev) (not .Params.Menu) }}
-          <a alt="Previous Chapter" href="{{ .Prev.Permalink }}">&larr; {{ .Prev.Title }}</a>
+          {{ if and (.Next) (not .Params.Menu) }}
+          <a alt="Previous Chapter" href="{{ .Next.Permalink }}">&larr; {{ .Next.Title }}</a>
           {{ else }}
           <p>&nbsp;</p>
           {{ end }}
@@ -13,8 +13,8 @@
           <a alt="Top of page" href="#">Top</a>
         </div>
         <div class="next">
-          {{ if and (.Next) (not .Params.Menu) }}
-          <a alt="Next Chapter" href="{{ .Next.Permalink }}">{{ .Next.Title }} &rarr;</a>
+          {{ if and (.Prev) (not .Params.Menu) }}
+          <a alt="Next Chapter" href="{{ .Prev.Permalink }}">{{ .Prev.Title }} &rarr;</a>
           {{ else }}
           <p>&nbsp;</p>
           {{ end }}
