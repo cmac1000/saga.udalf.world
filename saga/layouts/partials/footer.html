@@ -1,0 +1,34 @@
+<!-- Footer content -->
+    <div id="footer">
+      {{ if or (.Prev) (.Next) }}
+      <nav id="article-skip">
+        <div class="prev">
+          {{ if and (.Prev) (not .Params.Menu) }}
+          <a alt="Previous Chapter" href="{{ .Prev.Permalink }}">&larr; {{ .Prev.Title }}</a>
+          {{ else }}
+          <p>&nbsp;</p>
+          {{ end }}
+        </div>
+        <div class="top">
+          <a alt="Top of page" href="#">Top</a>
+        </div>
+        <div class="next">
+          {{ if and (.Next) (not .Params.Menu) }}
+          <a alt="Next Chapter" href="{{ .Next.Permalink }}">{{ .Next.Title }} &rarr;</a>
+          {{ else }}
+          <p>&nbsp;</p>
+          {{ end }}
+        </div>
+      </nav>
+      {{ end }}
+      <p class="copyright">
+        Udalf Saga is the log of a game played using <a href="https://dnd.wizards.com/">Dungeons and Dragons</a> 5th Edition Rules. Dungeons and Dragons is © Wizards of the Coast LLC, and wizards does not approve or endorse this content.
+      </p>
+      <p class="copyright">
+        © {{ dateFormat "2006" now }}
+      </p>      
+    </div>
+
+<!-- Close the body/html document -->
+</body>
+</html>
