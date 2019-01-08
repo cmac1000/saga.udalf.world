@@ -3,7 +3,7 @@
     <!-- Site details -->
     <title>{{ .Title }} | {{ .Site.Title }}</title>
     {{ if .Summary }}
-    <meta name="description" content="{{ .Summary }}">
+    <meta name="description" content="Chapter {{ .Params.chapter }}: {{ .Summary }}">
     {{ end }}
     <!-- Favicon details -->
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
