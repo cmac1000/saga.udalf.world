@@ -4,7 +4,7 @@
     "title": "New Friends"
 }
 
-The mysterious blad-clad figures riding into town introduce themselves to our protagonists as "The Seven Snakes". Their leader, Xolkin Alessandar, greets Colin warmly and expresses a keen interest in the number and location of any remaining town guards. He offers a shiny gemstone in exchange for the successful removal of the guards, and is uninterested in the party's suggestion that he might be happier elsewhere.
+The mysterious black-clad figures riding into town introduce themselves to our protagonists as "The Seven Snakes". Their leader, Xolkin Alessandar, greets Colin warmly and expresses a keen interest in the number and location of any remaining town guards. He offers a shiny gemstone in exchange for the successful removal of the guards, and is uninterested in the party's suggestion that he might be happier elsewhere.
 
 Colin confers with Torem Breck in the keep, who is unwilling to abandon his post, and urges the party to drive the Zhentarim away. The day ends inconclusively, with the Zhentarim well-ensconced in the town's trading post, and the guards maintaining their hold on the keep. The party spends the night in the keep as well, planning to set forth the next day to find the goblin caves (and missing townsfolk).
 
