@@ -25,4 +25,35 @@ The party returns the freed villagers to Nightstone, which has a newfound apprec
 * Gilbert passes himself off as a cleric of Eldath
 * Colin advises Morag to name his new, gelatinous chicken recipe after their beloved friend Gum-Gum
 
-Departing the next morning, a flying tower hoves into view and extends a magical spiral staircase. Colin happily ascends to find a cloud giant wizard levitating down from the upper story, booming forth a welcome.
+Taz releases the orc warchief, who has responded to all attempts at questioning with angry shouts of "GRUUMSH GRUUMSH GRUUMSH", and tells him, 
+
+"The last couple of days have been, ah, let's say enlightening for me! Really driven home the value of peaceful diplomacy and open-handedness. Maybe next time you are needing something and considering sacking a town for it, you consider the alternatives, eh? Later, man, go team Gruumsh and all that."
+
+The warchief looks around suspiciously and hoofs it into the woods.
+
+That night, a raven appears for Colin:
+
+```
+Acolyte Colin:
+
+We received your message. As you mentioned might happen, a badly-scarred man appeared at the main temple yesterday, describing himself as a "friend of Colin's" with some "merchandise" that needed "a place to cool down". We suggested he might be better suited with the storage options of the Bank of Tiamat down the street, but he was quite insistent that he "had a deal" with us. He's visited a few times today.
+
+Relatedly, a goblin came by the temple yesterday, introducing himself as "Gum-Gum". He was insistent on describing to us in great detail the plight of Nightstone and would not leave until we sent a messenger with his description to House Nandar, who I understand has sent a guard detachment to the town.
+
+Gum-Gum seems to be a bit at loose ends since, but is in no hurry to leave - he seems to find the central pool quite relaxing, although we've been at pains to point out that bathing isn't, strictly speaking, its intended function.
+
+Please advise.
+Blessings of Eldath,
+Thomas Korbinian, Prelate
+Temple of St. Reylas, Waterdeep
+```
+
+Colin does not answer the raven from Waterdeep; he just nods happily and says, "I'm so glad everyone got to the temple. I'm sure the elders will work something out with the snakes. I'm a great negotiator!"
+
+Departing the next morning, the party finds a troubling message scrawled on the dirt in front of town:
+
+```
+a dEal IS a dEal
+```
+
+As they head down the road back to Waterdeep, a flying tower hoves into view and extends a magical spiral staircase. Colin happily ascends to find a cloud giant wizard levitating down from the upper story, booming forth a welcome. They don't notice a small, stealthy figure creeping up on the stairs behind them...

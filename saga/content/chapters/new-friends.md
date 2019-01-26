@@ -22,6 +22,8 @@ The surviving orcs charge into town to battle the Zhentarim for control of the s
 
 As the warchief and his cleric break open the guardhouse gate, they are met by Gilbert's patented thunderwave, and the guards, roused by Taz's inspirational speech, surge forward. A band of swift wood elves, pursuing the orcs from the forest, begin firing from the west bank. Under the combined attack, the orc leadership falls.
 
+The warchief is knocked unconscious and retrieved by the keep guards, who place him in a makeshift cell in one of the gatehouses.
+
 Colin, hurrying towards the sounds of combat to the north of town, finds the surviving orcs beseiging a watch tower with the surviving Zhentarim. He begins manifesting strange wonders, causing the orcs to conclude that they have displeased Gruumsh, their grim god. They are thus distracted when the wood elves enter town and put a swift end to them.
 
 After the battle, a shaken Xolkin accepts Colin's offer to leave Nightstone in exchange for future help from the temple of Eldath. Colin uses his divine magic to spare the life of the dying Kella Matse, and the four surviving Zhentarim leave town with their dead, giving their three remaining horses to the party.
