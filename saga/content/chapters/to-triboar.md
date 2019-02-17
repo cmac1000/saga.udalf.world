@@ -15,6 +15,6 @@ The next morning, our heroes rendezvous with Zephyros and his flying tower, and 
 Arriving at Triboar, Taz books a room at a local inn, Northshield House. He meets:
 
 * Its polite proprietor, Urgala Meltimer
-* A deeply drunk young university student in red robes, who calls himself "Maverick"
+* A deeply drunk young college student in red robes, who calls himself "Maverick"
 * A pair of halfling caravan guards, Calmita and Thamelle Yolienne, operating on the Triboar-Mirabar trade route
 * Darz Helgar, the owner of the North Caravan Campground, searching for a missing young man named "Moonbeam"
