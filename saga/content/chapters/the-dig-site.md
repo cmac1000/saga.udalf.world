@@ -28,4 +28,4 @@ Combat ensues, in which one of the wights manages to get a hand on Gilbert, badl
 
 At the end of the northern passage, the party finds a recently-constructed winch system connected to a wooden platform, hanging over a deep cave, which extends vertically above them as well before disappearing into darkness.
 
-Taz talks to Plank, trying to get more information on Grisaille. Plank explains that she and Grisaille were both graduate students together in Waterdeep, 30 years ago. Dhe's a bit vague on the precise nature of their falling out, but considers her deeply dishonorable, and warns that she is not to be trusted.
+Taz talks to Plank, trying to get more information on Grisaille. Plank explains that she and Grisaille were both graduate students together in Waterdeep, 30 years ago. She's a bit vague on the precise nature of their falling out, but considers her deeply dishonorable, and warns that she is not to be trusted.
